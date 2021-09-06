@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "streamflixsa",
+  "private_key_id": "89456786bd6a2e0a90596f6e118b76716b693c6d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDgJR0rEqxSGlSY\nOnO5VWZdXV1BGWtzG5TWq7dvQc5YeO9R257Ytva3llKmrDOJj77ThiZIzsGGhbKx\nME79Ph+pEQpxCmVwUAcNmhn+TEJ0vcrzIiLfGJ5n0Wyi5E/ZpsEn1kHR1labdqjw\n+0cvFwQhw1zsWlANwD4tc42jknvZ9hll1d+KyTSztCoiEt2zzu/kLkxCS45U7H0F\nyYxy1BPKU0Z8NFfwIWXrOardeAJ50/r+b9IRWzVDHr+aCX6cj3x2FQiSiQ2IPrIg\ndiydkT7dJ3f5Ng215qLfKbrjSQ7Od6HnVPv9sB2z5rc8CvycPU04x4DUvPoNPuqZ\neUbq7EwLAgMBAAECggEADnC7AdY4otYjwruVTrMz8+o6wqG+xzzXfcMJ/3wdApx7\n8pP0a7V8jJRTK9NmmJivAb/1Qcs23ZH0fVowOebMMbSxgwSD8inoYmsd/JZGJnDp\nx83YXZ4flRmsEYx69nnknMqUFU7lPSvLs4bEwxcNAu3WqTrM8y3Xnk8A/jDxk2JF\nbqFmG6V6OqSiBlUabZBQdGmCZ1FgsHvH5rnKitMnCNju7c+jO43Zc0sbFBDFEoWt\niOgx8QO31nyJSa6An6zOgXpTLasJO0cJXCy/rVF8+fFPgDGC+SOwc25UKPzJ+T3B\n+CeUqBUPHbJ0wLPFCLfAoMQJ5HKOGTm5VV7bZkf/1QKBgQD5sfqvB8/NIA77etMw\npahHmAJ6QWqT4RSf1gMW5hvbiHP51W2OVmDZT/xtzpZEsaz+t0mqpPnxgAwYkNTC\nm+tgMG5f0BHBcenyFf5z5fOxokGxGC0fZRCDXXsqTkS5JmlSaRUfDseyAdv+OU7k\nuAPJIz51NDDbGv8QG/sMRlif/wKBgQDlzfqSj8CcFlD+fju4FyFPf3AiRV3CYtZv\nn57E5nvwgk5kOP9gBJTX16+wnPFLl+dwdFtT4m5900eJoEtcsBCZ4paFgy7gv7i+\nrIgKZ7t8eCtdtkIL74WOsF9Aic2TaKFpf+nwLJQCJjghGMXztHBoX7/WX17oE8Jz\nuQMt88TT9QKBgQDAJi90fD10bAQ7kERu/jwmhBr7+9VJYX9elPGhsIilgzdEffKm\nA2DaOoxV8BGBYX1wMpo1AGn7Z39ndCTWcehLCFoXz2WqiL/wdO5wP/gtrWCCKMmo\njDyN6uU6JCsMlDuemJERam1QVc/2riFBLz5yjXWl+fjS086Olgm2Y3gV/wKBgHQ6\nwQB92qJXmzGMsTHD6SInR5Td1rUpfmHIrunR1V/o2DNSrL9oscuVmJPQXS6prvIu\nt75uqQnU4brXKya/GjZq50yx8/TSo2M1Kj1xB9/Fe9GTDEazJ67qv9KJoENtSS5t\n9ul18oo/wGXk/MHtQmlX/FQ1um/RBqm3KseEIso9AoGBAPVzico2WDViyEFQBReD\nrVBZqucN1sUvgKpeTfGesn9oRjBnRlI0PfPAJWq9pIXvMBOILnIu3Mxqq3cb1u3S\nObM+X3gR3R39Tl1hncfnU4x5JM7Ul02nXKmYIWf9rSRATFjP0y3yyfl42k8xea7S\n8PYFnVfYJRhfLbMei06CwbFs\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-7-shns9ofolxzs72oijpc9ve19@streamflixsa.iam.gserviceaccount.com",
+  "client_id": "102219261252865454256",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-7-shns9ofolxzs72oijpc9ve19%40streamflixsa.iam.gserviceaccount.com"
+}
